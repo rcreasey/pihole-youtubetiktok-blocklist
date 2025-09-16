@@ -1,3 +1,4 @@
+# Tiktok domains
 tiktok.com
 www.tiktok.com
 m.tiktok.com
@@ -8,6 +9,8 @@ byteoversea.com
 tiktokv.com
 tik-tokcdn.com
 tiktokcdn.com
+
+# Youtube domains
 youtube.com
 www.youtube.com
 m.youtube.com
@@ -15,3 +18,7 @@ youtubei.googleapis.com
 youtube.googleapis.com
 youtube-nocookie.com
 youtu.be
+
+# YouTube video & assets (needed to kill playback)
+*.googlevideo.com
+*.ytimg.com
